@@ -55,6 +55,14 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 TODO 添加更多内容评注
 
+### Kevin Breel: Confessions of a depressed comic
+
+[在TED上观看](http://www.ted.com/talks/kevin_breel_confessions_of_a_depressed_comic)
+
+难以表述我的观后印象, 看完的心情非常复杂. 自己看. 英语语速较快, 但是不难听懂.
+
+TODO 添加更多内容评注
+
 ## 励志
 
 ## 好玩
