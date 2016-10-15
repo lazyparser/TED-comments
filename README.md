@@ -63,4 +63,8 @@ Tim Urban 的这个演讲非常的好玩, 这是我目前接触过的关于拖�
 
 Adam 给了我们这些拖延症患者一个理直气壮的拖延理由: 适度的拖延正是我们创造力的来源, 成功的关键 :-P
 
+### TED staff: It's TED, the Musical
 
+[在TED上观看](http://www.ted.com/talks/daffodil_hudson_is_this_the_cure_for_stage_fright)
+
+TED员工自己排演的音乐剧, 诙谐幽默, 6分钟内可以看完, 英语词汇量要求不高.
