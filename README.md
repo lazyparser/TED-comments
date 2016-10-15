@@ -3,7 +3,7 @@
 
 ## 科技类
 
-**Hugh Herr: The new bionics that let us run, climb and dance**
+### Hugh Herr: The new bionics that let us run, climb and dance
 
 TED2014 · 19:00 · Filmed Mar 2014
 
@@ -16,7 +16,7 @@ Herr 教授是攀岩爱好者, 于1982年攀岩活动中受伤, 双腿被感染�
 
 > I reasoned that a human being can never be "broken." Technology is broken. Technology is inadequate.
 
-> - Prof. Hugh Herr
+> -- Prof. Hugh Herr
 
 这一简单而又强大的思想指引着 Herr 教授在接下来的几十年中投身于人工义肢的研究.
 借助现代生物、材料、计算机等学科的发展, Herr 教授的 BiOM 义肢,
@@ -30,7 +30,7 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 ## 科技与社会、哲学、伦理交叉
 
-**Andreas Ekström: The moral bias behind your search results**
+### Andreas Ekström: The moral bias behind your search results
 
 [在TED网站观看](http://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
 
