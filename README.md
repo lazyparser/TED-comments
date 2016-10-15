@@ -57,4 +57,10 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 Tim Urban 的这个演讲非常的好玩, 这是我目前接触过的关于拖延症的最有意思的演讲了.
 
+### Adam Grant: The surprising habits of original thinkers
+
+[在TED上观看](http://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
+
+Adam 给了我们这些拖延症患者一个理直气壮的拖延理由: 适度的拖延正是我们创造力的来源, 成功的关键 :-P
+
 
