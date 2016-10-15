@@ -47,6 +47,14 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 ## 社会、人文
 
+### Meg Jay: Why 30 is not the new 20
+
+[在TED上观看](http://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20)
+
+这是一个非常有分量的演讲, 两年前观看, 之后反复听过多次, 时至今日我依然会时不时回忆起.
+
+TODO 添加更多内容评注
+
 ## 励志
 
 ## 好玩
