@@ -50,3 +50,11 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 ## 励志
 
 ## 好玩
+
+### Tim Urban: Inside the mind of a master procrastinator
+
+[在TED上观看](http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+
+Tim Urban 的这个演讲非常的好玩, 这是我目前接触过的关于拖延症的最有意思的演讲了.
+
+
