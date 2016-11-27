@@ -1,7 +1,100 @@
 ﻿# TED-comments
 对[TED网站](http://www.ted.com)上演讲的观后感, 多数是崇拜, 偶尔夹杂着吐槽.
 
+update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
+
 ## 科技类
+
+### Roger Antonsen: Math is the hidden secret to understanding the world
+
+[在TED网站观看](https://www.ted.com/talks/roger_antonsen_math_is_the_hidden_secret_to_understanding_the_world)
+
+非常有意思的一次数学科普演讲，后半段全场都要摇摆起来了 ^\_^
+
+### Steven Johnson: How music led to the invention of modern computers
+
+[在TED网站观看](https://www.ted.com/talks/steven_johnson_how_play_leads_to_great_inventions)
+
+有几个很有意思的小八卦，让我觉得新奇的是阿拉伯人首先以可以替换的音乐盒形式，做出来了“可编程计算机”。
+
+### Eric Topol: The wireless future of medicine
+
+[在TED网站观看](https://www.ted.com/talks/eric_topol_the_wireless_future_of_medicine)
+
+这是2009年的演讲，其中的一些技术在今天看来已经司空见惯；但是另一方面，很可惜，我在北京并没有看到普及。在操作性上感觉还是需要进一步的改善。
+
+### Bettina Warburg: How the blockchain will radically transform the economy
+
+[在TED网站观看](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy)
+
+比特币和背后的区块链技术改变世界已经不是新闻，连中国大妈都已经炒过一轮比特币了。但是背后的技术，其数学和密码学原理，值得学习。
+
+Coursera.org 上有公开的课程，感兴趣可以去免费的注册和旁听：
+
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+
+### Playlist (7 talks) The future of surgery
+
+[在TED网站观看](https://www.ted.com/playlists/437/the_future_of_surgery)
+
+这是个播放列表，包含了一下7个医学类演讲。
+
+### Catherine Mohr: Surgery's past, present and robotic future
+
+[在TED网站观看](https://www.ted.com/talks/catherine_mohr_surgery_s_past_present_and_robotic_future)
+
+Mohr 女士是 Intuitive Surgical 的创办人（？）之一，2009年的时候在TED上介绍了新的达芬奇手术操作机器人，单孔微创手术，应该就是2014年面世的SP系列。国内2006年首先由301医院引入一台，到2016年应该超过一百台了。
+
+就我有限的知识而言，达芬奇手术机器人代表着手术台上机器人技术的最高水平。我也有参与做机器人的开发，但是从科技程度和精度而言都还差得非常非常远，达芬奇机器人目前还是神一级的存在。也不便宜，购入价格约2000万人民币，使用一次耗材也过万。
+
+### Quyen Nguyen: Color-coded surgery
+
+[在TED网站观看](https://www.ted.com/talks/quyen_nguyen_color_coded_surgery)
+
+2011年的演讲，演讲者应该是东南亚人，看着比较亲切。
+
+阐述的技术很直观，概念上效果上都很好。尤其是将小股神经束也能够通过荧光成分显示出来，看着激动人心。
+
+不知道现在在国内是否有普及。
+
+### Yoav Medan: Ultrasound surgery — healing without cuts
+
+[在TED网站观看](https://www.ted.com/talks/yoav_medan_ultrasound_surgery_healing_without_cuts)
+
+看着原理是比较直观的，就是把人放到微波炉里加热，把某个特定的位置定点加热到60度 XD
+
+操作上不知道国内是否有引入这种手术装置，某种意义上也算是服务机器人范围了。
+
+### Adam de la Zerda: We can start winning the war against cancer
+
+[在TED网站观看](https://www.ted.com/talks/adam_de_la_zerda_how_we_can_start_winning_the_war_against_cancer/transcript?language=en)
+
+跟 Quyun Nguyen 的演讲类似，尝试解决同样的问题，为主刀大夫提供可靠的视觉辅助支持。
+
+通过这个演讲知道了原来美国国会和NCI也吹过牛皮，号称2015年要战胜癌症 XD
+
+### Franz Freudenthal: A new way to heal hearts without surgery
+
+[在TED网站观看](https://www.ted.com/talks/franz_freudenthal_a_new_way_to_heal_hearts_without_surgery)
+
+这个演讲对我的额外的震撼之处在于这个是专门针对儿科的。从我一个医学外行看来，技术上非常的牛，直接从血管里走进心脏里去做修补。（虽然我知道心脏血管造影也是一根针顺着腹股沟处或手腕处沿着血管伸到心脏的位置，还是觉得挺高难度。）
+
+### Steven Schwaitzberg: A universal translator for surgeons
+
+[在TED网站观看](https://www.ted.com/talks/steven_schwaitzberg_a_universal_translator_for_surgeons)
+
+没有达芬奇系统的微创手术。微创手术对医生的要求非常高，主要是手操作很别扭，什么都是反着来的。医生要开微创手术的刀，需要训练很久。这项技术是一个医疗语言的翻译系统，用于一个远程的微创手术教学环境。
+
+2012年的演讲，demo的时候我看了下英文翻译成中文的部分，直观上看流畅度还是差的有点明显。这套翻译系统关注的首先是医学词汇的准确性。不知道现在技术是否有更新换代。
+
+### Jack Choi: On the virtual dissection table
+
+[在TED网站观看](https://www.ted.com/talks/jack_choi_on_the_virtual_dissection_table)
+
+2012年的模拟解剖台。超大触摸屏。感觉是完全平面的，还是感觉不太真实。
+
+PS：演示的时候作者多切了一块儿，幽默地圆了过去，缓解了气氛。
+
 
 ### Hugh Herr: The new bionics that let us run, climb and dance
 
