@@ -176,6 +176,12 @@ TODO 添加更多内容评注
 
 ## 励志
 
+### Casey Gerald: The gospel of doubt
+
+[在TED网站观看](https://www.ted.com/talks/casey_gerald_the_gospel_of_doubt)
+
+比较有意思的讲话。速度不算慢，内容跨度也大，前前后后听了四五遍，才差不多能听懂了。
+
 ## 好玩
 
 ### Tim Urban: Inside the mind of a master procrastinator
