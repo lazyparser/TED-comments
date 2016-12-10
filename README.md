@@ -141,6 +141,12 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 ## 科技与社会、哲学、伦理交叉
 
+### Tania Simoncelli: Should you be able to patent a human gene?
+
+[在TED网站观看](https://www.ted.com/talks/tania_simoncelli_should_you_be_able_to_patent_a_human_gene)
+
+大开眼界，心怀感激。这场最终达到了美国9人那里的判决，背后准备的艰辛，不是TED舞台20分钟能够阐述的。
+
 ### Andreas Ekström: The moral bias behind your search results
 
 [在TED网站观看](http://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
