@@ -11,6 +11,12 @@ update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开I
 
 ## 科技类
 
+### Geraldine Hamilton: Body parts on a chip
+
+[在TED网站观看](https://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip)
+
+看着非常有前途。不知道现在发展怎么样了？
+
 ### Ellen Jorgensen: What you need to know about CRISPR
 
 [在TED网站观看](https://www.ted.com/talks/ellen_jorgensen_what_you_need_to_know_about_crispr)
