@@ -184,6 +184,15 @@ TODO 添加更多内容评注
 
 ## 好玩
 
+### John McWhorter: 4 reasons to learn a new language
+
+[在TED网站观看](https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language)
+
+“你的语言塑造和限定了你的思维。”
+
+奥威尔反复的提及过这点。之前有一个经济学家也在TED上提出过一个衍生的观点：
+语言中明确区分了现代时态和将来时态的群体，存钱的数量和意图都要小很多。有意思 ：）
+
 ### Tim Urban: Inside the mind of a master procrastinator
 
 [在TED上观看](http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
