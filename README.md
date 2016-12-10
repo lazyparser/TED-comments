@@ -3,6 +3,12 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Isaac Lidsky: What reality are you creating for yourself?
+
+[在TED网站观看](https://www.ted.com/talks/isaac_lidsky_what_reality_are_you_creating_for_yourself)
+
+非常震撼。 MUST WATCH。
+
 ## 科技类
 
 ### Andreas Ekström: The moral bias behind your search results
