@@ -17,12 +17,6 @@ update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开I
 
 基本上算是CRISPR的入门科普，值得一看。另外，这里提到的专利争夺大战，差不多要出结果了。
 
-### Andreas Ekström: The moral bias behind your search results
-
-[在TED网站观看](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
-
-这次演讲录制的时间比较早，2015年开始的时候放在网上的。今天，在川普当选美国总统之后，听腻了美国国内在事前对谷歌的质疑以及事后对Facebook的质疑，再回过头来看Andreas的演讲，我们，作为码农，已经无法以我们只是写代码的逃避伦理和道德问题的讨论。
-
 ### Roger Antonsen: Math is the hidden secret to understanding the world
 
 [在TED网站观看](https://www.ted.com/talks/roger_antonsen_math_is_the_hidden_secret_to_understanding_the_world)
@@ -162,6 +156,8 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 人口数量甚至超过很多小的国家. 如果在面对问题时注意到到其中的社会及道德成分,
 那么可能会产生不一样的结果.
 
+update：这次演讲录制的时间比较早，2015年开始的时候放在网上的。今天，在川普当选美国总统之后，听腻了美国国内在事前对谷歌的质疑以及事后对Facebook的质疑，再回过头来看Andreas的演讲，我们，作为码农，已经无法以我们只是写代码的逃避伦理和道德问题的讨论。
+
 ## 社会、人文
 
 ### Meg Jay: Why 30 is not the new 20
@@ -170,7 +166,9 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 这是一个非常有分量的演讲, 两年前观看, 之后反复听过多次, 时至今日我依然会时不时回忆起.
 
-TODO 添加更多内容评注
+我是在接近三十的时候看到了Meg的演讲，不算太迟；如果能够在上大学的时候看到，可能成熟的会更加快一点。
+
+**强烈推荐任何年龄段的你观看**
 
 ### Kevin Breel: Confessions of a depressed comic
 
