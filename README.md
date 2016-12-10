@@ -5,6 +5,12 @@ update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开I
 
 ## 科技类
 
+### Andreas Ekström: The moral bias behind your search results
+
+[在TED网站观看](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
+
+这次演讲录制的时间比较早，2015年开始的时候放在网上的。今天，在川普当选美国总统之后，听腻了美国国内在事前对谷歌的质疑以及事后对Facebook的质疑，再回过头来看Andreas的演讲，我们，作为码农，已经无法以我们只是写代码的逃避伦理和道德问题的讨论。
+
 ### Roger Antonsen: Math is the hidden secret to understanding the world
 
 [在TED网站观看](https://www.ted.com/talks/roger_antonsen_math_is_the_hidden_secret_to_understanding_the_world)
