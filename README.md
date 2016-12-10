@@ -11,6 +11,12 @@ update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开I
 
 ## 科技类
 
+### Ellen Jorgensen: What you need to know about CRISPR
+
+[在TED网站观看](https://www.ted.com/talks/ellen_jorgensen_what_you_need_to_know_about_crispr)
+
+基本上算是CRISPR的入门科普，值得一看。另外，这里提到的专利争夺大战，差不多要出结果了。
+
 ### Andreas Ekström: The moral bias behind your search results
 
 [在TED网站观看](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results)
