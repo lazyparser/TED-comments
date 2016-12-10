@@ -135,6 +135,12 @@ Herr 教授立志让 Adrianne 重新登上舞台, 组织了四人研究小组,
 
 ## 科技与社会、哲学、伦理交叉
 
+### Ione Wells: How we talk about sexual assault online
+
+[在TED网站观看](https://www.ted.com/talks/ione_wells_how_we_talk_about_sexual_assault_online)
+
+在中国大陆，这个问题可能更加的普遍，但是却被压抑的更为严重。
+
 ### Tania Simoncelli: Should you be able to patent a human gene?
 
 [在TED网站观看](https://www.ted.com/talks/tania_simoncelli_should_you_be_able_to_patent_a_human_gene)
