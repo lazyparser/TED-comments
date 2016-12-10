@@ -188,6 +188,12 @@ TODO 添加更多内容评注
 
 ## 好玩
 
+### Camille A. Brown: A visual history of social dance in 25 moves
+
+[在TED网站观看](https://www.ted.com/talks/camille_a_brown_a_visual_history_of_social_dance_in_25_moves)
+
+轻松活泼。一花一世界。PS我就只知道Twist，哈。
+
 ### John McWhorter: 4 reasons to learn a new language
 
 [在TED网站观看](https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language)
