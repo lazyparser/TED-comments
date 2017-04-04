@@ -4,6 +4,14 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Andreas Schleicher: Use data to build better schools
+
+[在TED网站观看](https://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools)
+
+每次看这个演讲都很有感触。2012年的数据。用数据说话。
+如果老师的薪水得不到提高，教育就很难有希望。
+反过来，如果不愿意提高老师的薪水，那么有关发展教育的目标可能一开始就是虚伪的？
+
 ### Helen Fisher: Technology hasn't changed love. Here's why
 
 [在TED网站观看](https://www.ted.com/talks/helen_fisher_technology_hasn_t_changed_love_here_s_why)
