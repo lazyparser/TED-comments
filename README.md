@@ -4,6 +4,15 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Adam Savage: My love letter to cosplay
+
+[在TED网站观看](https://www.ted.com/talks/adam_savage_my_love_letter_to_cosplay)
+
+Adam小时候在中国的话大概算是一个在校园里比较搞怪的小朋友，nerdy的那种。
+我每次看到像Adam这样的人在TED舞台上讲述自己的故事，
+关注更多的都是他们的成长环境，他真的可以自己改造房子的内部装修，刷油漆，糊控制台，
+而他的父亲竟然真的愿意为他做了一个白铁皮做的白金盔甲。
+在我听着 Adam Savage 讲述着他的童年趣事的时候，很自然地将他的父亲列入我的模仿名单 :-)
 
 ### Jia Jiang: What I learned from 100 days of rejection
 
