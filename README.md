@@ -4,6 +4,14 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Ashton Cofer: A young inventor's plan to recycle Styrofoam
+
+[在TED网站观看](https://www.ted.com/talks/ashton_cofer_a_young_inventor_s_plan_to_recycle_styrofoam)
+
+别人家的小孩。吊打我们这些科学院的专业研究人员。
+很难想象这些小孩子都是怎么成长起来的？在如此短暂的时间内自己搞定了这么多复杂的事情。
+看着显然这些孩子乐在其中。
+
 ### Kate Adams: 4 larger-than-life lessons from soap operas
 
 [在TED网站观看](https://www.ted.com/talks/kate_adams_4_larger_than_life_lessons_from_soap_operas)
