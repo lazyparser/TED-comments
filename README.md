@@ -4,6 +4,12 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Helen Fisher: Technology hasn't changed love. Here's why
+
+[在TED网站观看](https://www.ted.com/talks/helen_fisher_technology_hasn_t_changed_love_here_s_why)
+
+没完全听懂。有时间再听一遍。
+
 ### Fawn Qiu: Easy DIY projects for kid engineers
 
 [在TED网站观看](https://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
