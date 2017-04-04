@@ -4,6 +4,13 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Fawn Qiu: Easy DIY projects for kid engineers
+
+[在TED网站观看](https://www.ted.com/talks/fawn_qiu_easy_diy_projects_for_kid_engineers)
+
+如果想要从事儿童教育、儿童编程、在线教育等领域，我推荐阅读 Fawn Qiu 的演讲。
+电子和软件的实体化是我非常看中的一个方向， Fawn 的创意让我脑洞大开。
+
 ### Todd Coleman: A temporary tattoo that brings hospital care to the home
 
 [在TED网站观看](https://www.ted.com/talks/todd_coleman_a_temporary_tattoo_that_brings_hospital_care_to_the_home)
