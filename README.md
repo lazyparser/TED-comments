@@ -4,6 +4,12 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Kate Adams: 4 larger-than-life lessons from soap operas
+
+[在TED网站观看](https://www.ted.com/talks/kate_adams_4_larger_than_life_lessons_from_soap_operas)
+
+轻松幽默，确实人生哲理。看到最后一个lesson的时候着实让我意外和触动到了。
+
 ### Michele L. Sullivan: Asking for help is a strength, not a weakness
 
 [在TED网站观看](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)
