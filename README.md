@@ -4,10 +4,19 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
-### Katie Hinde:
-What we don't know about mother's milk
+### Mona Chalabi: 3 ways to spot a bad statistic
 
-https://www.ted.com/talks/katie_hinde_what_we_don_t_know_about_mother_s_milk
+[在TED网站观看](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
+
+语速太快，有不少没有听清楚。关键的方法有幻灯片展示，大意明白了。
+基本上是批判思维需要的能力，统计数字出现偏差和错误太容易了，即使统计人员没有主观偏向性，
+要保证统计结果的准确性也是非常难的。
+我比较倾向于认为国内的统计结果都是不准确的，基层统计人员很难保证说原始数据的准确性。
+附带一提，可能连现在的总理都不是很相信国家统计数据，所以后来衍生出一个``克强指数'' :-)
+
+### Katie Hinde: What we don't know about mother's milk
+
+[在TED网站观看](https://www.ted.com/talks/katie_hinde_what_we_don_t_know_about_mother_s_milk)
 
 母乳对于婴儿的营养和保健作用大概没有什么争议，母乳喂养在国内可能不是什么问题。
 美国的研究人员argue的大多是产假。大陆的产假甚至可以长达五个月，并有一年的哺乳假。
