@@ -4,6 +4,15 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Katie Hinde:
+What we don't know about mother's milk
+
+https://www.ted.com/talks/katie_hinde_what_we_don_t_know_about_mother_s_milk
+
+母乳对于婴儿的营养和保健作用大概没有什么争议，母乳喂养在国内可能不是什么问题。
+美国的研究人员argue的大多是产假。大陆的产假甚至可以长达五个月，并有一年的哺乳假。
+美国好像是没有产假的概念的，基本上不上班就没钱。不知道现在是否有一些保险可以cover。
+
 ### Adam Savage: My love letter to cosplay
 
 [在TED网站观看](https://www.ted.com/talks/adam_savage_my_love_letter_to_cosplay)
