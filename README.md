@@ -4,9 +4,18 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+
+### Jia Jiang: What I learned from 100 days of rejection
+
+[在TED网站观看](https://www.ted.com/talks/jia_jiang_what_i_learned_from_100_days_of_rejection)
+
+非常幽默搞笑的一个演讲。我最喜欢的是他跑去汉堡店，问是否可以像咖啡续杯一样``续汉堡''。
+^_^
+
 ### Shane Koyczan: To This Day ... for the bullied and beautiful
 
 [在TED网站观看(带中文字幕)](http://www.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful/transcript?language=zh-cn)
+
 中关村二小是我的孩子上不了的名校，这两天因校园霸凌火了。国内逐渐开始重视霸凌的问题。然而，在应对霸凌的问题上，我们作为家长还需要非常漫长的学习和提高过程。这绝不是你替孩子打另家小孩出气那么简单。你是从孩子心理建设恢复的角度，还是从个人泄愤的角度来处理这个问题，可能会有一些差别。不妨就在今天，抽出12分钟，听一听曾经是霸凌的受害者的诗人 Shane Koyczan 的演讲：“时至今日”——献给欺凌的受害者，你们依然美丽
 
 ### Isaac Lidsky: What reality are you creating for yourself?
