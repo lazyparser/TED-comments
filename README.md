@@ -4,6 +4,13 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Peter Weinstock: Lifelike simulations that make real-life surgery safer
+
+[在TED网站观看](https://www.ted.com/talks/peter_weinstock_lifelike_simulations_that_make_real_life_surgery_safer)
+
+前面的煽情和渲染多了一点，研究目标和使用的方法让我觉得很靠谱，这肯定是以后医学的必然方向。
+虽然可行，需要的综合人才队伍和成本不小。国内可能还需要个五年十年才会推进到第一梯队意外的医院／医生。
+
 ### Ashton Cofer: A young inventor's plan to recycle Styrofoam
 
 [在TED网站观看](https://www.ted.com/talks/ashton_cofer_a_young_inventor_s_plan_to_recycle_styrofoam)
