@@ -4,6 +4,15 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Todd Coleman: A temporary tattoo that brings hospital care to the home
+
+[在TED网站观看](https://www.ted.com/talks/todd_coleman_a_temporary_tattoo_that_brings_hospital_care_to_the_home)
+
+技术太有吸引力了，以至于我觉得应该早就被推广了太对？
+可能还有一些技术难题没有解决。
+我印象最为深刻的就是孕妇现在必然有的胎心监护仪，国内使用的感觉都是比较老款的了，
+但是看视频中的美国医院，用的款式（如果没看错的话）同样的老气。更新换代很慢。
+
 ### Peter Weinstock: Lifelike simulations that make real-life surgery safer
 
 [在TED网站观看](https://www.ted.com/talks/peter_weinstock_lifelike_simulations_that_make_real_life_surgery_safer)
