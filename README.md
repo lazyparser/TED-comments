@@ -4,6 +4,12 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Michele L. Sullivan: Asking for help is a strength, not a weakness
+
+[在TED网站观看](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)
+
+震撼。幽默。这是在TED上我推荐的``必看演讲''之一。
+
 ### Mona Chalabi: 3 ways to spot a bad statistic
 
 [在TED网站观看](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
