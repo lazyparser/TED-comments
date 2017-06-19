@@ -4,6 +4,34 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### Veerle Provoost: Do kids think of sperm donors as family?
+
+https://www.ted.com/talks/veerle_provoost_do_kids_think_of_sperm_donors_as_family
+
+很有意思的问题：如果问几岁的孩子，捐赠精子的生物学父亲，是否是自己家庭的一员，孩子是如何理解的？
+孩子的回答或许会让你觉得意外和思考。
+
+### Lucy Kalanithi: What makes life worth living in the face of death
+
+https://www.ted.com/talks/lucy_kalanithi_what_makes_life_worth_living_in_the_face_of_death
+
+Lucy 在这次演讲中，分享了自己的丈夫在癌症过世前的几年时间中，他们共同经历的幸福、痛苦、希望与感悟。
+最近分享了很多关于死亡的话题。每一次关于死亡的话题都是非常沉重的。而每次听当事人诉说自己的故事，
+总会有新的感悟和收获，对于生命的理解，会因为当事人的故事而改变一点点。
+
+### Moshe Szyf: How early life experience is written into DNA
+
+https://www.ted.com/talks/moshe_szyf_how_early_life_experience_is_written_into_dna
+
+这项研究跟我之前的认知冲突了，我不是很相信。。。。。。
+
+### Kathy Hull: Stories from a home for terminally ill children
+
+https://www.ted.com/talks/kathy_hull_stories_from_a_home_for_terminally_ill_children
+
+这个话题很难在国内正常的环境中被提及。即使被提及，也很难深入的聊下去，因为太沉重了。
+如果孩子生命的终点已经无法避免，是否能够有更加平静地告别？
+
 ### Andreas Schleicher: Use data to build better schools
 
 [在TED网站观看](https://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools)
