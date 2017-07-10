@@ -4,6 +4,18 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### RAJ PANJABI No one should die because they live too far from a doctor
+
+https://www.ted.com/talks/raj_panjabi_no_one_should_die_because_they_live_too_far_from_a_doctor
+
+我注意到最近有这种大格局的医生，很多都是印度人。是巧合么？
+
+### LISA GENOVA: What you can do to prevent Alzheimer's
+
+https://www.ted.com/talks/lisa_genova_what_you_can_do_to_prevent_alzheimer_s
+
+我大胆的预测，晚睡的程序员都是老年痴呆(￣∇￣)
+
 ### STUART RUSSELL: 3 principles for creating safer AI
 
 https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people
