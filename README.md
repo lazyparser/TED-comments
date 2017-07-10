@@ -4,6 +4,16 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+
+
+
+### Philip Zimbardo: The psychology of time
+
+https://www.ted.com/talks/philip_zimbardo_prescribes_a_healthy_take_on_time
+
+不到六分钟的演讲，糟糕的PPT配色和布局，没有那么好笑的宗教小故事。这些都没有改变这次演讲的观点的重要性。
+绝对值得一看。演讲者同时是著名“斯坦福监狱”实验的负责人。
+
 ### Veerle Provoost: Do kids think of sperm donors as family?
 
 https://www.ted.com/talks/veerle_provoost_do_kids_think_of_sperm_donors_as_family
