@@ -4,6 +4,47 @@
 
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
+### STUART RUSSELL: 3 principles for creating safer AI
+
+https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people
+
+我不太能够相信Russell教授的原则能够成立，and 我相信以后在星巴克看到机器人来麦咖啡，我会让它先买的（滑稽）。
+
+### JOHN MCWHORTER: 4 reasons to learn a new language
+
+https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language
+
+忘记“语言会塑造你的脑子”这样的观念吧（可是这也是奥维尔的观点呀2333），让我们就是为了好玩来学习～
+
+### IONE WELLS: How we talk about sexual assault online
+
+https://www.ted.com/talks/ione_wells_how_we_talk_about_sexual_assault_online
+
+我不知道评论什么。我支持演讲者站出来。
+
+### MELISSA WALKER: Art can heal PTSD's invisible wounds
+
+https://www.ted.com/talks/melissa_walker_art_can_heal_ptsd_s_invisible_wounds
+
+毫无疑问演讲者的方法是有效果的。而我可能倾向于认为，艺术本身在治疗和康复过程中起到的作用是有限的。治疗过程本身给予的关注和支持环境可能对于PTSD患者的恢复过程起到了更加重要的作用。
+
+### ELIZABETH LESSER: Say your truths and seek them in others
+
+https://www.ted.com/talks/elizabeth_lesser_say_your_truths_and_seek_them_in_others
+
+或许你看到这个演讲的时候也有类似的共鸣。
+
+### TASOS FRANTZOLAS: Everything you hear on film is a lie
+
+https://www.ted.com/talks/tasos_frantzolas_everything_you_hear_on_film_is_a_lie
+
+长知识系列讲座，建议带上耳机欣赏。
+
+### MANWAR ALI: Inside the mind of a former radical jihadist
+
+https://www.ted.com/talks/manwar_ali_inside_the_mind_of_a_former_radical_jihadist
+
+非常震撼和充满勇气的演讲。演讲者在上台之前也清楚的知道，他在TED上的这次演讲之后，他的余生都要收到极端分子的死亡威胁。这需要真的勇气和献身精神。这个演讲我听了好几次，每一次听都自然的屏住呼吸。
 
 ### MICHAEL BOTTICELLI：Addiction is a disease. We should treat it like one
 
