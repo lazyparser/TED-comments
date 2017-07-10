@@ -5,7 +5,11 @@
 update 2016-11-27: 目前各个分类可能不准确，如果有建议欢迎开ISSUE或提交PR。
 
 
+### MICHAEL BOTTICELLI：Addiction is a disease. We should treat it like one
 
+https://www.ted.com/talks/michael_botticelli_addiction_is_a_disease_we_should_treat_it_like_one
+
+确实。我想问题在于道理我们都懂但是遇到自己身边的人的时候，我们总觉得，这是一个意志力和态度的问题。
 
 ### Philip Zimbardo: The psychology of time
 
